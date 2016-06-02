@@ -3,4 +3,8 @@ git add XXX.txt 	添加要提交的文件
 git status	状态
 git diff	差异，哪些改动的地方
 git commit -m "提交说明"  提交
+
+git log --pretty=oneline 查看提交历史
+ git reset --hard HEAD^  版本回退  head^ 回退一个版本  head^^回退两个版本  head~100 回退一百个版本
+
 我就是乱写的
