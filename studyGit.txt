@@ -1,1 +1,5 @@
-1
+git init	初始化
+git add XXX.txt 	添加要提交的文件
+git status	状态
+git diff	差异，哪些改动的地方
+git commit -m "提交说明"  提交
