@@ -8,6 +8,7 @@ git status	状态
 git diff	差异，哪些改动的地方
 git commit -m "提交说明"  提交
 git push origin master  提交到github上面
+git push -u origin master  第一次推送master
 
 
 git log --pretty=oneline 查看提交历史
